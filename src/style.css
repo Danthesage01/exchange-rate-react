@@ -17,7 +17,8 @@ body{
 }
 .head-title{
 color: var(--primary-color);
-font-size: 20px;
+font-size: 25px;
+text-align: center;
 }
 
 .head-description{
