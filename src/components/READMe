@@ -1,0 +1,7 @@
+API from 
+
+https://exchangerate.host/#/
+
+GET: https://api.exchangerate.host/latest
+
+CONVERT: https://api.exchangerate.host/latest?base=USD&symbols=NGN
